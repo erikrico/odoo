@@ -1,2 +1,2 @@
 # odoo
-Repositorio para implementación ODOO
+Este es un mensaje de prueba, para registrar el segundo registro de cambios.
